@@ -16,5 +16,4 @@
 | Лабораторная 3   | [путь](./Lr3)      |
 | Лабораторная 5   | [путь](./Lr5)      |
 | Лабораторная 6   | [путь](./Lr6)      |
-| Лабораторная 7   | [путь](./Lr7)      |
-Документация: https://mayaevans.github.io/ITMO_FSPO_DataBases_2020-2021/
+|Документация:     | https://mayaevans.github.io/ITMO_FSPO_DataBases_2020-2021/ |
